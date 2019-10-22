@@ -1,0 +1,7 @@
+.message_flash {
+    position: fixed;
+    z-index: 10000;
+    left: 0;
+    right: 0;
+    border-radius: 0;
+}
